@@ -1,0 +1,6 @@
+# large datasets
+datasets/lfw
+datasets/mnist  
+
+# notebook checkpoints
+*.ipynb_checkpoints
